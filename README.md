@@ -1,4 +1,4 @@
-**## Overview:**
+** Overview:**
 
 
 
@@ -10,7 +10,7 @@ lines and determine which the longer line is.
 
 
 
-**## Required skills:**
+** Required skills:**
 
 • JOptionPane
 
@@ -28,7 +28,7 @@ lines and determine which the longer line is.
 
 
 
-**## Requirements:**
+** Requirements:**
 
 • You must have an application that is no larger than 650px x 650px
 
@@ -60,7 +60,7 @@ variables should be of type int, and your distance variables should be of type d
 
 
 
-**## Outcome:**
+** Outcome:**
 
 
 
@@ -81,4 +81,5 @@ variables should be of type int, and your distance variables should be of type d
 
 
 </div>
+
 
